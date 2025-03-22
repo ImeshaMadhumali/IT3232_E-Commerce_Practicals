@@ -5,20 +5,34 @@
 
 This repository contains the practical exercise, focusing on creating a simple application controllers using Spring Boot to display data.
 
-📂 Project Structure
+📂 Project Structure|
+
+├── Activity1/
+│   ├── AppController.java/
+│   ├── outpu1.png/
+│   ├── output2.png
+├── Activity2/
+│   ├── StudentController.java/
+│   ├── output3.png/
+
 
 
 ⚙️ Prerequisites
 
+
 ☕ Java Development Kit (JDK) 8 or higher
+
 🔧 Maven
+
 💻 Any IDE that supports Spring Boot (IntelliJ IDEA, Eclipse, VS Code, etc.)
+
 
 🚀 Setup Instructions
 
 1.Clone the repository:
 
 git clone https://github.com/ImeshaMadhumali/IT3232_E-Commerce_Practicals.git
+
 cd day 02 - 21.03.2025
 
 2.Set up Spring Boot IDE to your PC or laptop
