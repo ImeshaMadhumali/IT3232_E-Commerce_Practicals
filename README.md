@@ -5,47 +5,41 @@ This repository contains all the practical exercises and mini-projects completed
 <br><br>
 
   ### 🔍Key Topics Covered:<br><br>
-
-☕ Basic Java syntax and control structures<br><br>
-🔄 Loops and conditional statements<br><br>
-🏗️ Object-oriented programming principles<br><br>
-📊 Data structures<br><br>
-🧩 Problem-solving with Java<br><br>
-🍃 Spring Boot application structure<br><br>
-🏗️ MVC architecture<br><br>
-🎮 Controllers and request handling<br><br>
-📝 Model creation and data passing
-<br><br>
+☕ Basic Java syntax and control structures<br>
+🔄 Loops and conditional statements<br>
+🏗️ Object-oriented programming principles<br>
+📊 Data structures<br>
+🧩 Problem-solving with Java<br>
+🍃 Spring Boot application structure<br>
+🏗️ MVC architecture<br>
+🎮 Controllers and request handling<br>
+📝 Model creation and data passing<br><br>
 
  ### 🧠Skills Developed:<br><br>
-✅ Java programming fundamentals<br><br>
-✅ Object-oriented design principles<br><br>
-✅ Data structure selection and implementation<br><br>
-✅ Problem decomposition and solution construction<br><br>
-✅ Spring Boot application setup<br><br>
-✅ Controller implementation<br><br>
+✅ Java programming fundamentals<br>
+✅ Object-oriented design principles<br>
+✅ Data structure selection and implementation<br>
+✅ Problem decomposition and solution construction<br>
+✅ Spring Boot application setup<br>
+✅ Controller implementation<br>
 ✅ Model design<br><br>
-<br><br>
 
-📁 Repository Structure
-
+📁 Repository Structure<br>
 
 ```
 
 Ecommerce-practicals/
 ├──  Day 01/
-├── Day 2/     
+├── Day 02/     
 └── README.md    
 
 ```
-<br><br>
 
 ### 🙏Acknowledgments<br><br>
-👨‍🏫 Course instructor for providing comprehensive exercises<br><br>
-🍃 Spring Boot documentation for reference examples<br><br>
+👨‍🏫 Course instructor for providing comprehensive exercises<br>
+🍃 Spring Boot documentation for reference examples<br>
 ☕ Oracle Java documentation for language specifications<br><br>
-<br><br>
 
-📞Contact For any questions or support, please contact:<br><br>
-✉️Email: imeshamadhumali31@gmail.com <br><br>
-💻GitHub: github.com/yourusername
+#### 📞Contact For any questions or support, please contact:<br><br>
+✉️Email: imeshamadhumali31@gmail.com <br>
+💻GitHub: https://github.com/ImeshaMadhumal
