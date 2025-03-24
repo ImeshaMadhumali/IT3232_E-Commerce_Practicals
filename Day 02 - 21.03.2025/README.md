@@ -11,12 +11,13 @@ This repository contains the practical exercise, focusing on creating a simple a
 ```
 
 ├── Activity1/
-│   ├── AppController.java/
-│   ├── outpu1.png/
+│   ├── AppController.java
+│   ├── outpu1.png
 │   ├── output2.png
 ├── Activity2/
-│   ├── StudentController.java/
-├── output3.png/
+│   ├── StudentController.java
+|   ├── output3.png
+
 
 ```
 <br>
