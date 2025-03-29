@@ -1,79 +1,45 @@
-🛒 E-commerce Practicals
-
-
-🎓 Course Overview
-
+ # 🛒E-commerce Practicals
+ <br><br>
+ ### 🎓Course Overview <br><br>  
 This repository contains all the practical exercises and mini-projects completed during the E-commerce subject. These practicals aim to build the technical skills necessary for developing e-commerce applications, from basic programming fundamentals to web application development.
+<br><br>
 
+  ### 🔍Key Topics Covered:<br><br>
+☕ Basic Java syntax and control structures<br>
+🔄 Loops and conditional statements<br>
+🏗️ Object-oriented programming principles<br>
+📊 Data structures<br>
+🧩 Problem-solving with Java<br>
+🍃 Spring Boot application structure<br>
+🏗️ MVC architecture<br>
+🎮 Controllers and request handling<br>
+📝 Model creation and data passing<br><br>
 
-🔍 Key Topics Covered:
+ ### 🧠Skills Developed:<br><br>
+✅ Java programming fundamentals<br>
+✅ Object-oriented design principles<br>
+✅ Data structure selection and implementation<br>
+✅ Problem decomposition and solution construction<br>
+✅ Spring Boot application setup<br>
+✅ Controller implementation<br>
+✅ Model design<br><br>
 
-☕ Basic Java syntax and control structures
-
-🔄 Loops and conditional statements
-
-🏗️ Object-oriented programming principles
-
-📊 Data structures
-
-🧩 Problem-solving with Java
-
-🍃 Spring Boot application structure
-
-🏗️ MVC architecture
-
-🎮 Controllers and request handling
-
-📝 Model creation and data passing
-
-
-
-🧠 Skills Developed:
-
-💻 Java programming fundamentals
-
-🏗️ Object-oriented design principles
-
-📊 Data structure selection and implementation
-
-🧩 Problem decomposition and solution construction
-
-🚀 Spring Boot application setup
-
-🎮 Controller implementation
-
-📝 Model design
-
-
-
-
-📁 Repository Structure
-
+📁 Repository Structure<br>
 
 ```
 
 Ecommerce-practicals/
 ├──  Day 01/
-├──  Day 02/ 
-├──  Day 03/    
+├── Day 2/     
 └── README.md    
 
 ```
 
+### 🙏Acknowledgments<br><br>
+👨‍🏫 Course instructor for providing comprehensive exercises<br>
+🍃 Spring Boot documentation for reference examples<br>
+☕ Oracle Java documentation for language specifications<br><br>
 
-
-
-🙏 Acknowledgments
-
-
-👨‍🏫 Course instructor for providing comprehensive exercises
-🍃 Spring Boot documentation for reference examples
-☕ Oracle Java documentation for language specifications
-
-
-
-Contact For any questions or support, please contact:
-
-Email: imeshamadhumali31@gmail.com 
-
-GitHub: github.com/yourusername
+#### 📞Contact For any questions or support, please contact:<br><br>
+✉️Email: imeshamadhumali31@gmail.com <br>
+💻GitHub: https://github.com/ImeshaMadhumal
