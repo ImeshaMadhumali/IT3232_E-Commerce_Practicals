@@ -54,7 +54,8 @@ This repository contains all the practical exercises and mini-projects completed
 
 Ecommerce-practicals/
 ├──  Day 01/
-├── Day 2/     
+├──  Day 02/ 
+├──  Day 03/    
 └── README.md    
 
 ```
